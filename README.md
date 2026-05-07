@@ -41,4 +41,4 @@ Load Data → Exploratory Analysis → Feature Engineering → Encoding → Trai
 ## Author
 
 **Walid Hamdoune** — Data Science Student @ Concordia University  
-[LinkedIn](https://linkedin.com/in/walidhamdoune) | [GitHub](https://github.com/WalidHamdoune)
+[LinkedIn]: https://www.linkedin.com/in/walidhamdoune/ | [GitHub] : https://github.com/WalidHamdoune
